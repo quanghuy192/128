@@ -1,0 +1,96 @@
+Index: app/src/main/java/vn/com/huy/a128/view/MainPlayView.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/vn/com/huy/a128/view/MainPlayView.java	(date 1481483076000)
++++ app/src/main/java/vn/com/huy/a128/view/MainPlayView.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/vn/com/huy/a128/control/LoadingData.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/vn/com/huy/a128/control/LoadingData.java	(date 1481483076000)
++++ app/src/main/java/vn/com/huy/a128/control/LoadingData.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/vn/com/huy/a128/control/LoadingDataVer2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/vn/com/huy/a128/control/LoadingDataVer2.java	(date 1481483076000)
++++ app/src/main/java/vn/com/huy/a128/control/LoadingDataVer2.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/vn/com/huy/a128/control/ConfigurationLevel.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/vn/com/huy/a128/control/ConfigurationLevel.java	(date 1481483076000)
++++ app/src/main/java/vn/com/huy/a128/control/ConfigurationLevel.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/gameover.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/gameover.xml	(date 1481483076000)
++++ app/src/main/res/layout/gameover.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/item.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/item.xml	(date 1481483076000)
++++ app/src/main/res/layout/item.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/drawable/highscores_rs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/drawable/highscores_rs.xml	(date 1481483076000)
++++ app/src/main/res/drawable/highscores_rs.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: gradlew.bat
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- gradlew.bat	(date 1481483076000)
++++ gradlew.bat	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/main_play.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/main_play.xml	(date 1481483076000)
++++ app/src/main/res/layout/main_play.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/drawable/play_rs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/drawable/play_rs.xml	(date 1481483076000)
++++ app/src/main/res/drawable/play_rs.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/drawable/rate_rs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/drawable/rate_rs.xml	(date 1481483076000)
++++ app/src/main/res/drawable/rate_rs.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/vn/com/huy/a128/view/ResultView.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/vn/com/huy/a128/view/ResultView.java	(date 1481483076000)
++++ app/src/main/java/vn/com/huy/a128/view/ResultView.java	(revision )
+@@ -1,0 +1,0 @@
