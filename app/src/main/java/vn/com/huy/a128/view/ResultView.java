@@ -11,6 +11,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 import vn.com.huy.a128.R;
 
 public class ResultView extends Activity implements OnClickListener {
@@ -50,6 +53,10 @@ public class ResultView extends Activity implements OnClickListener {
 
 		retry.setOnClickListener(this);
 		exit.setOnClickListener(this);
+
+		AdView mAdView = (AdView) findViewById(R.id.adView);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
 	}
 
 	@Override

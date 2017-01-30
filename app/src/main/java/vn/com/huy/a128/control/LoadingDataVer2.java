@@ -193,11 +193,9 @@ public class LoadingDataVer2 {
 	}
 
 	public List<Present> getPresentList() {
-
 		if(null == presentList || presentList.size() <= 0){
 			return Collections.emptyList();
 		}
-
 		return presentList;
 	}
 
@@ -221,11 +219,9 @@ public class LoadingDataVer2 {
 	}
 
 	public List<Bomb> getBombList() {
-
 		if(null == bombList || bombList.size() <= 0){
 			return Collections.emptyList();
 		}
-
 		return bombList;
 	}
 

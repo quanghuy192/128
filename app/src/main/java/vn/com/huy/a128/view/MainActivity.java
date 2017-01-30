@@ -6,6 +6,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
+
 import vn.com.huy.a128.R;
 import vn.com.huy.a128.utilities.MusicInGame;
 
@@ -24,6 +28,11 @@ public class MainActivity extends Activity implements View.OnClickListener {
         play.setOnClickListener(this);
         sound.setOnClickListener(this);
 
+        // Banner
+        MobileAds.initialize(getApplicationContext(), "ca-app-pub-3940256099942544~3347511713");
+        AdView mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
     }
 
     @Override    public void onClick(View view) {
